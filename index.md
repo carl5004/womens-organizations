@@ -5,7 +5,7 @@
 layout: default
 # title: Home
 ---
-# Introduction to Exhibit on Women's Organizations in Stevens County
+# Introduction to Exhibit
 This website is the home for a digital exhibit on women's organizations in Stevens County, Minnesota. 
 It includes the Pomme de Terre Gardening Club, Framnas Jolly Workers, and League of Women Voters Stevens County.
 This exhibit has a focus on digital humanities and what it means to be a feminist.

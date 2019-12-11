@@ -30,7 +30,7 @@ url: "https://carl5004.github.io" # the base hostname & protocol for your site, 
 github_username:  carl5004
 
 # Build settings
-theme: jekyll-theme-leap-day
+remote_theme: jekyll-theme-leap-day
 # remote_theme: fongandrew/hydeout
 repository: carl5004/womens-organizations
 # paginate: 5 # the number of posts per page

@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  carl5004
 
 # Build settings
-remote_theme: fongandrew/hydeout
+theme: jekyll-theme-leap-day
+# remote_theme: fongandrew/hydeout
 repository: carl5004/womens-organizations
 paginate: 5 # the number of posts per page
 plugins:

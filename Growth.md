@@ -1,3 +1,5 @@
+[Home](/index.md)
+
 # Personal Growth
 
 ## Framnas Jolly Workers
@@ -10,4 +12,4 @@ In 1982 a supplement to the Morris Tribune, “Rural Women’s Appreciation Day�
 
 While the League of Women Voters and the Pomme de Terre Garden Club were interested in the personal growth of their members, this has largely been placed under “[Fellowship Activities](liiiiink)” because there was a larger focus on growing the group as a whole.
 
-[Home](/index.md)		[Next (Political Activities)](/Political.md)
+[Home](/index.md) | [Next (Political Activities)](/Political.md)

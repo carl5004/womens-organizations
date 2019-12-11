@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[Home](/index.md)
+
 # Service and Community Outreach
 
 ## League of Women Voters
@@ -48,4 +50,4 @@ The Framnas Jolly Workers were more focused on the personal growth of their memb
 ![alt](https://lh3.googleusercontent.com/ZVSwBdcOvfT5CbaR6vn1H2AtVtewQbP7fdsMNi1H4IJkcPoaTppndMLt_wurck6K7aT3Qb-NJfxnWkCmpwDH1NxPdRjbLfzaV8e4D9iDfXN-jLmUuVGXwIhz4uwTPgWAS55MYicGNyCg9WfFkGvqW5vFoS-dGGwvgMAJ1mQ5pjYLG18MTFc23yZokcBLaB_u8-8blWnQLQhguJGeP942fdxkcHh2snmEvvTP4N3sP61QVoHX9P_br6GVAmsfO_uLCWeOzMA9DJiBz0WOEhDrahAkFZeeyFjx_i53LE7gC7NdCJhWYTL-kZwSXBV_EpU2hnniG-G0dEJAYV06O8i9gWI1dLX5xR0oVnn1KjLvacnz9GyC5ZsWLRiCuPyBvwyDvo8qgpNGlB1e5lkz3UeQzLx2iKwEkLcJ2hwRxhN9uCx3EBOLQyOFLhtXuj1MFqy3ZHiYJOUnBdbmGPfIRRaQAX8g8Dhi6_Hrg-wITKoxf3pOzkv2spP0W_os3vh4z9qOZvYNOulh6q_lGBHpglHIToiMJ9hOBKi6CVMuNi22USBf3PPoyK_XmR4TB22i8biPwdCUhONyVecx0Bl0QRtTTvWT7sLc4KCA-QcujfpMqo2PGZEScuVTcLuw713rqETVQoabc9fCaFG9oiSfmyrrVF0zxEXuu2AAL6XOWb7VQk4Wt8r1E5IOknHV9MGns6XIZxlv9av9QNCPrrWfZ4miHE6_og7XvsedbMDoxKfS5dE_E44=w1423-h1540-no)
 
 
-[Home](/index.md) 		[Next (Personal Growth)](/Growth.md)
+[Home](/index.md) | [Next (Personal Growth)](/Growth.md)

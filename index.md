@@ -8,4 +8,4 @@ layout: default
 # Introduction to Women's Organizations in Stevens County
 testing for text
 
-[link](/about.md)
+[link](/exhibits.md)

@@ -71,18 +71,17 @@ Goals of the group: strive to promote a better way of life for my family, my nei
 ![alt](https://lh3.googleusercontent.com/tmjZ8hiPlfrFhGDU6CQbdBXYy47TFOYSdulhbDVKnT1qH1HlEoC3fp6gHuT8faJbc6vdqGDQ9j7LMAH8uj3aLT3B--RBrZgKM5JB3cdqC4Wq8_fRdvlMPbr96lJ7xODYyF0gbHYYq-Vnek24636afIevtDzmY-K3AvhO6kWmuBYBxDf8pO5otFxYsDwGwy7RHSNF5l26sfwUxO_oBTEyPOjreXX8Zlm1Qg_APmKvO7swkgS7vojsOebbPnrPh53ngX51wJ3VerK_N5LqL6cXe_P8qAalUz1xUJ_aKMwyhR7vMbbyZEOrOS2_P17Fn1z0sflj4ozDISJ29AjSCMqflGCyfKaawnDmVN3lYxXJKhkGeCoqiIVxW4_Z4zHNB6V8TnkOGMrcyjFYtnb_a7Q2ci8G17jXZi06zKaFPEPuiqnwKfPKz6ogG9Nm0mMgg7-iEDWXR_susM9blzneluGkA9XnWbFtqDbZQEwwBjw-A-ancp0e5LuR8fDWrAavqt00a5jWHAklCBaTj920KoYAuujCOxEPd5wRwuyVsaAarx4DThi6N-0OINXlSVS4di9HxIou_Sso0vp_I8P5RT7eclh3BaJkwdcTRYSwvluNNaPYYOptbvL45hhPop2t2dILPiHMzuPK5DvSp16TfDoe5PWLKMrGY7mNorC2o1rtmkTcEksirrj54mYIqF5T1mASd12Kl7vcT2LDWr1q_DmnQQNYerIPvKLw91hjg_qPMmyTNTI=w1378-h1540-no)
 
 ### [Service and Community Outreach](/ServiceAndOutreach.md)
-description
+Click here to learn more about the community and service outreach activities the groups participated in.
 
 ### [Personal Growth](/Growth.md)
-description
+Click here to learn more about the personal growth activities the groups participated in.
 
 ### [Political Activities](/Political.md)
-description
+Click here to learn more about the political activities the groups participated in.
 
 ### [Religious Activities](/Religious.md)
-description
+Click here to learn more about the religious activites the groups participated in.
 
 ### [Fellowship Activities](/Fellowship.md)
-description
+Click here to learn more about the fellowship activities the groups participated in.
 
-[link](/exhibits.md)

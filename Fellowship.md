@@ -21,3 +21,5 @@ Activities in 1993: Programs on conservation, birds, and preserving endangered s
 Some early lessons were: designing with fancy stitches using color and embroidery stitches; speed methods in sewing such as setting sleeves or zippers; slip covers for sofas; lessons on crafts such as pine-cone decorations, padded wreaths, corn husk dolls, cathedral window blocks, chip carving, and others
 
 Lessons and open meetings conducted in the county from 1956-68: learn to sew; wool workshop; decorative stitching and wire jewelry; children’s clothing; meat cuts-identification and preparation; Kerr canning school (demonstration); one-dish meal; cake or cookie recipes; making vegetable popular; home safety demonstration; a new look at budgeting; laundry logic; wills and legal affairs; refinishing furniture; house plants; slip covering workshop; braided rugs
+
+[Home](/index.md)		[Next (Service and Outreach)](/ServiceAndOutreach.md)

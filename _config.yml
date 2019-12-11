@@ -26,14 +26,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   This exhibit has a focus on digital humanities and what it means to be a feminist.
 # baseurl: "/WomensOrganizations" # the subpath of your site, e.g. /blog
 # url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  carl5004
 
 # Build settings
 theme: jekyll-theme-leap-day
 # remote_theme: fongandrew/hydeout
 repository: carl5004/womens-organizations
-paginate: 5 # the number of posts per page
+# paginate: 5 # the number of posts per page
 plugins:
   - jekyll-feed
   - jekyll-gist

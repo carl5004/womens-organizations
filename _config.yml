@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   It includes the Pomme de Terre Gardening Club, Framnas Jolly Workers, and League of Women Voters Stevens County.
   This exhibit has a focus on digital humanities and what it means to be a feminist.
 baseurl: "/WomensOrganizations" # the subpath of your site, e.g. /blog
-# url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://carl5004.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  carl5004
 

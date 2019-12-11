@@ -22,4 +22,4 @@ In 1983 the League conducted a study on the “Economic Status of Women in our C
 
 Neither the Pomme de Terre Garden Club or the Framnas Jolly Workers were very politically oriented. They were more interested in developing the group through “[Personal Activities](liiiiink)” or “[Community Outreach](liiiiink).”
 
-[Home](/index.md) | [Next (Personal Growth)](/Growth.md)
+[Home](/index.md) \| [Next (Personal Growth)](/Growth.md)

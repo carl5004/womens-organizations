@@ -6,4 +6,4 @@
 
 While some of the groups met at churches for their gatherings, none of the groups were especially religious or had religious activities or lessons (aside from the religious holiday crafting sessions or parties.
 
-[Home](/index.md) | [Next (Fellowship Activities)](/Fellowship.md)
+[Home](/index.md) \| [Next (Fellowship Activities)](/Fellowship.md)

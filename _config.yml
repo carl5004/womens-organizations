@@ -24,12 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   This website is the home for a digital exhibit on women's organizations in Stevens County, Minnesota.
   It includes the Pomme de Terre Gardening Club, Framnas Jolly Workers, and League of Women Voters Stevens County.
   This exhibit has a focus on digital humanities and what it means to be a feminist.
-baseurl: "/WomensOrganizations" # the subpath of your site, e.g. /blog
+baseurl: "/Womens-Organizations" # the subpath of your site, e.g. /blog
 # url: "https://carl5004.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  carl5004
 
+
 # Build settings
+markdown: kramdown
 theme: jekyll-theme-leap-day
 # remote_theme: fongandrew/hydeout
 repository: carl5004/womens-organizations

@@ -5,7 +5,7 @@
 layout: default
 # title: Home
 ---
-# Introduction to Women's Organizations in Stevens County
+# Introduction to Exhibit on Women's Organizations in Stevens County
 This website is the home for a digital exhibit on women's organizations in Stevens County, Minnesota. 
 It includes the Pomme de Terre Gardening Club, Framnas Jolly Workers, and League of Women Voters Stevens County.
 This exhibit has a focus on digital humanities and what it means to be a feminist.
@@ -22,7 +22,7 @@ Later, when women’s roles shifted, so did the organizations. In 1975, clubwoma
 
 Some parts of women’s organizations have not changed over the years. Clubs strengthened collective confidence and afforded their members a more complete sense of individual identity. The club often served the cause of cultural enlightenment and taught women the value of their own autonomy. Clubwomen held the middle ground between women who wanted a radical break in social norms and the overwhelming majority who contentedly played out their conventional roles. They provided women with safe spaces to come together to discuss their lives and the problems they encountered as women. They also served, since their founding, as organizations that directed women's public action and political involvement. Examining the activism of women's clubs in these years reveals that they continued to allow women space to talk about their lives and others’ in varying ways. 
 
-## League of Women Voters of Stevens County
+# League of Women Voters of Stevens County
 
 League of Women Voters of Stevens County was organized on November 10, 1970. It was part of the national organization, the League of Women Voters, an American civic organization that was formed to help women take a larger role in public affairs after they won the right to vote. Their goals were educational and nonpartisan. The Stevens County chapter was active from 1970 to the late 1980s, and again from 2006 to 2008.
 
@@ -42,7 +42,7 @@ One of the group’s chief challenges as a group was getting enough people to ac
 
 ![alt](https://lh3.googleusercontent.com/8aNkmM97tD65m7t6Cy5Rm0w781vboYaYgm7g1B0gQQTgCI4A3nMNz5vjLctpYDUxtcAP3c0lAlgvOG1iTv7duyZyfAzrAimzWuADi6sU6LPAdcOhG47a0tX--2pvy37B_XDKyi72tGWqRXpORhyTyEhDi7pkZ-tJL0ih9PpmiJu2cuzbUUHRUXHPe2NetYEt6uAtqO9kCx80E-vDGSmv-OK-49EigHH6ur2VfrcL3lGSGWHIbH_V8N3wNFt8_faSet6PNRkyoEVTDQx97qZSoO5LZeM0PZptrLYtNizLN7RsDba8sRHjFQ9eQAfNvV4ZwDLTWnhh3FntHy09KTQa2jvCsv-bPRC0epmm_RnQ48Kr4Fnga_-qmsu27PnvziKv50a28yGpZ7OiTqrbrrCQKrowztJvBJtFiD5V-743O_c2EPepFPOWIG94enT8INs1EScUb4RM3a-H-n6PzUFIEPmAg396mDI9AUVQ45HmijljvkjEmG9CnNrcMdeRQ0iVs0esR17fHq7JXmwzGqznFjW7NNZ3zq7nWiGGrhc4GE8A9QcnTWhODDdoXY2RG8tLiGpRBvGNXWuSFhn62neGju4MC_MQOhgIewZCkgiMO4xxol878dIyfPlnmfOGHb5cqVGYteyfYb1FmHXSbdP_P7evJYQ6qCIk5ByPHSCmn68ahVRIci1w3ZJtkLowNipbe5t6-N4mm_yN4hLhhJZxUDWF9gccAHi4WJrUqvhpiSOD_rM=w1428-h1443-no)
 
-## The Pomme de Terre Garden Club
+# The Pomme de Terre Garden Club
 
 The Pomme de Terre Garden Club was organized in 1953 and is still active today. They were originally called the Morris Garden Club but changed to Pomme de Terre Garden Club in 1955. They are a member of the “Heart of the Prairie” Tenth District Horticultural Society and the Minnesota State Horticultural Society. They had a program on vegetable gardening at the first meeting. Programs are slides, videos, demonstrations or talks, usually about something educational. Their Gardener’s Creed: “We believe a garden will bring us more than vegetables and flowers. We believe it will bring us contentment, relaxation, kind thoughts, peace of mind and joy in pleasant work and achievement.” Each year has a theme; for example, 1989 was Minnesota wild edibles, 1993 was toxic plants. Although not associated with the Extension service, in the past, several members have been Master Gardeners, who received training through the Extension Service and who were considered a good resource for the club and community.
 
@@ -56,7 +56,7 @@ The group would often hold annual plant sales to fund the group, have a program 
 
 ![alt](https://lh3.googleusercontent.com/IaWYy0CQFfacQTkpNQL4r-5pC6_DuduWu9UjUXllwcLysmynBQC3wgwgzfBxDclHx3rbbgIUP88SmKpsJAGzJDCw0hy4WNGvomaAxWGsrvYqkC9-6TM_k44SFb2hCsrfbvppLML_BP8GgvJKcnFM6QhyPrEFCju9SdJgAg_HKCU8ZrPTzQisdg4Hs-k3lPff02uG8G_XvtC6dJLRkotoBoScgejI5kfpG-PmyUo8AdFBFYVyXEx2_SVfZ0m4VthJ7VEw0nEdKCNcnDHr7SoN87BvSepvpxhGUUur7aKelvfdGoAsfD0HzpVhXgLpb6dBg2BNrSxAc5nDKFrJ2Z6Q32Tkx2qOH4EeTkOjG4H0E5D2P3SvrE9JU4-QyaHUvmGGg93INefY5Bib7GzWNDd35Qo65RbMv09dxWXX-7Dme_my9ALiQpgzw2i5A0dqr8gPjbib5Z9ZIVB7TUJFyJQQPwfeIB7LhB5ckgLuvjuMLW4du7qz9otdiZU0wL7AGGwfNJfchWVIzC_Q1iBxrODUQUefAURaamc4t0Aa9M9eTf6xu03ajFQhutNJ8KbrIIWA-VHP3duWHbSAZL235Ha8JtJHmrTqoAr88V2aGdeLa6hWPOgsDVIn_8xsNNbjRiscpNBAeO-Aollrr9kdwf5pC9sOzn6bECEz2FWI8vVzaUAqSybVAgB9wffIMdgbP3g9BSeDW7Mbe_IvVuh9ACxH5it4XrAoLpc3xeHvGEdfY67jmE0=w2468-h1540-no)
 
-## Framnas Jolly Workers
+# Framnas Jolly Workers
 
 The Framnas Jolly Workers was organized after a series of home extension lessons were given throughout the various townships in the county. Some of the first lessons were given on health by the Red Cross through the County Nurse; for example, sewing and raising chickens. The group started in the middle of the 1920s when Henry Brandt, a Framnas farmer, convinced six women to start a chicken project. “How to Cull a Chicken” was one of the first meetings, and a live chicken was used for the demonstration, to see which chickens lay eggs. (Extension groups often started this way by having lessons on chickens.)  The “Chicken Club” disbanded in 1930. The next group went by the name of the “Sewing Club.” The group was reorganized in 1938 to be the “Jolly Workers” and around the same time became a part of the Extension Homemakers. The tulip was chosen as the club flower. The club motto is: “to make the best better.”
 
